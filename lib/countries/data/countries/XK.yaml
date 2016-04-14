@@ -1,0 +1,36 @@
+---
+XK:
+  continent: Kosovo
+  address_format: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: XK
+  alpha3: XK
+  country_code: '383'
+  currency: EUR
+  international_prefix: '00'
+  ioc: XK
+  gec: XK
+  latitude: 42 40 N
+  longitude: 21 10 E
+  name: Kosovo
+  names:
+  - Kosovo
+  - Kosova
+  region: Europe
+  subregion: Eastern Europe
+  world_region: EMEA
+  un_locode: XK
+  languages:
+  - sq
+  nationality: Kosovar
+  eu_member: false
+  vat_rates:
+    standard: 20
+    reduced:
+    - 9
+    super_reduced: 
+    parking: 
+  postal_code: true
